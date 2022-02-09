@@ -1,0 +1,2 @@
+Hellow World!
+Today is my first day in Odin Project!
